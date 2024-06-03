@@ -17,6 +17,16 @@
 
 <br><br>
 
+# Daftar Isi
+
+|                                      |                                                                                                                                                                     |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| File Fitur File Manajer KW           | [Disini](https://github.com/ckckckcz/UAS-SISTEMOPERASI/blob/main/view/file_manager.sh)                                                                              |
+| File Fitur Pengelola Kontak Telepon  | [Disini](https://github.com/ckckckcz/UAS-SISTEMOPERASI/blob/main/view/perangkat_manager.sh)                                                                         |
+| File Fitur Manajement Perangkat Kita | [Disini](https://github.com/ckckckcz/UAS-SISTEMOPERASI/blob/main/view/buku_kontak.sh)                                                                               |
+| Laporan PDF                          | [Disini](https://github.com/ckckckcz/UAS-SISTEMOPERASI/blob/main/report/Laporan_2341720209_Riovaldo%20Alfiyan%20Fahmi%20Rahman_Output%20Program.pdf)                |
+| Laporan PPT                          | [Disini](https://github.com/ckckckcz/UAS-SISTEMOPERASI/blob/main/report/PPT_2341720209_RIovaldo%20Alfiyan%20Fahmi%20Rahman_Proyek%20Akhir%20Sistem%20Operasi_.pptx) |
+
 # Data Diri
 
 |                |                                                                     |
